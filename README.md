@@ -1,8 +1,8 @@
 # Travel Vibes Final Assignment
 
 # สมาชิกในกลุ่ม
-- 6310110037 นายกิจศภณ  สุทโธ  // frontend
-- 6310110287 นางสาวผกภณ์ รามเจริญ	  // backend
+- 6310110037 นายกิจศภณ  สุทโธ  // frontend backend
+- 6310110287 นางสาวผกภณ์ รามเจริญ	  // fontend
 
 # Frontend
 - ใช้ nextjs ที่เป็น react framwork ใช้ในการทำ frontend เเละใช้ axios ในการดึงข้อมูลจากตัว restful api 
